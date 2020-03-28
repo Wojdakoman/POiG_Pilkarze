@@ -1,0 +1,4 @@
+Janusz;Kowalski;48
+Mikołaj;Smit;17
+Jan;Nowak;50
+Joana;Nowak;49
